@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Joshi</h1>
-<h3 align="center">I am a technology enthusiast currently undergrad @ KLSGIT, Pursuing my third year.</h3>
+<h3 align="center">I am a technology enthusiast currently undergrad @ KLSGIT, Pursuing my final year.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sixthcodebrewer&label=Profile%20views&color=0e75b6&style=flat" alt="sixthcodebrewer" /> </p>
 
