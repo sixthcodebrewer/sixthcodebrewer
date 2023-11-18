@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sixthcodebrewer" alt="sixthcodebrewer" /></a> </p>
 
-- 🔭 I’m currently working on **Couchbase Documentation**
+- 🔭 I’m currently work as Software Engineer @ **[MERKLE](https://www.merkle.com/)**
 
 - 👨‍💻 All of my projects are available at [https://joshivarun.tech](https://joshivarun.tech)
 
