@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Joshi</h1>
-<h3 align="center">I am a technology enthusiast and part time Software Engineer.</h3>
+<h3 align="center">I am a technology enthusiast and part-time Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sixthcodebrewer&label=Profile%20views&color=0e75b6&style=flat" alt="sixthcodebrewer" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 Software Engineer @ **[MERKLE](https://www.merkle.com/)**
 
-- 👨‍💻 All of my projects are available at [https://joshivarun.tech](https://joshivarun.tech)
+- 👨‍💻 All of my projects are available at [http://varunjoshi.co.in/](http://varunjoshi.co.in/)
 
 - 📝 I regularly write articles on [https://varunjoshi.hashnode.dev/](https://varunjoshi.hashnode.dev/)
 
