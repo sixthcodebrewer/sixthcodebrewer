@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Varun%20Joshi&fontSize=80&animation=fadeIn&fontAlign=80&fontWeight=700" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Varun%20Joshi&fontSize=60&animation=fadeIn&fontAlign=80&fontWeight=500" />
   <h1>👋 Technology Enthusiast & Software Engineer @ MERKLE</h1>
   <img src="https://komarev.com/ghpvc/?username=sixthcodebrewer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
