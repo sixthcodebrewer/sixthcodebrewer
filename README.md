@@ -1,30 +1,84 @@
-<h1 align="center">Hi 👋, I'm Varun Joshi</h1>
-<h3 align="center">I am a technology enthusiast and part-time Software Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Varun%20Joshi&fontSize=80&animation=fadeIn&fontAlign=80&fontWeight=700" />
+  <h1>👋 Technology Enthusiast & Software Engineer @ MERKLE</h1>
+  <img src="https://komarev.com/ghpvc/?username=sixthcodebrewer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sixthcodebrewer&label=Profile%20views&color=0e75b6&style=flat" alt="sixthcodebrewer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sixthcodebrewer" alt="sixthcodebrewer" /></a> </p>
-
-- 🔭 Software Engineer @ **[MERKLE](https://www.merkle.com/)**
-
-- 👨‍💻 All of my projects are available at [http://varunjoshi.co.in/](http://varunjoshi.co.in/)
-
-- 📝 I regularly write articles on [https://varunjoshi.hashnode.dev/](https://varunjoshi.hashnode.dev/)
-
-- 📫 How to reach me **varunj442@gmail.com**
-- Checkout my [Color Picker Guide](https://sixthcodebrewer.github.io/uipicker/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sixthcodebrewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sixthcodebrewer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sixthcodebrewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sixthcodebrewer" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/varunj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/varunj1" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://varunjoshi.co.in/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://varunjoshi.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-00A1D6?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://twitter.com/sixthcodebrewer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sixthcodebrewer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:varunj442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🧠 About Me
+const varun = {
+role: "Software Engineer @ MERKLE",
+currently: "Building innovative web solutions",
+funFact: "Color picker enthusiast 🎨",
+projects: "varunjoshi.co.in | UI Picker Guide",
+passion: "Frontend development & Open Source"
+};
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sixthcodebrewer&show_icons=true&locale=en" alt="sixthcodebrewer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sixthcodebrewer&" alt="sixthcodebrewer" /></p>
+### 🚀 Current Focus
+- 🔭 Working on production-grade web apps at MERKLE
+- 💻 Exploring React patterns & TypeScript
+- ✍️ Writing dev articles on Hashnode
+- 🎨 Perfecting UI/UX with Figma & Adobe tools
 
+### 🛠️ Tech Stack
+<details>
+<summary><b>🌐 Frontend & Frameworks</b> (15+)</summary>
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🔥 Backend & Databases</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🎨 Design & Tools</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Illustrator-FF0000?style=for-the-badge&logo=adobeillustrator&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</details>
+
+### 📈 GitHub Stats
+<div align="center">
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sixthcodebrewer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixthcodebrewer&layout=compact&theme=radical&hide_border=true)
+</div>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sixthcodebrewer&theme=radical)
+
+### ✨ Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [UI Picker Guide](https://sixthcodebrewer.github.io/uipicker/) | Interactive color picker tool | React, CSS | [Live Demo](https://sixthcodebrewer.github.io/uipicker/) |
+| [Portfolio](http://varunjoshi.co.in/) | Personal projects showcase | HTML, CSS, JS | [Visit](http://varunjoshi.co.in/) |
+| [Hashnode Blog](https://varunjoshi.hashnode.dev/) | Technical articles & insights | Writing, Dev | [Read](https://varunjoshi.hashnode.dev/) |
+
+### 📫 Get In Touch
+<p align="center">
+  <em>Let's build something awesome together! 🚀</em>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
