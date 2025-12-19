@@ -60,11 +60,9 @@ passion: "Frontend development & Open Source"
 </details>
 
 ### 📈 GitHub Stats
-<div align="center">
-    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sixthcodebrewer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixthcodebrewer&layout=compact&theme=radical&hide_border=true)
-</div>
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sixthcodebrewer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixthcodebrewer&layout=compact&theme=radical&hide_border=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sixthcodebrewer&theme=radical)
 
 ### ✨ Featured Projects
