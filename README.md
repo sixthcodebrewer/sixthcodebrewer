@@ -19,7 +19,7 @@ role: "Software Engineer @ TECHM",
 currently: "Building innovative web solutions",
 funFact: "Color picker enthusiast 🎨",
 projects: "varunjoshi.co.in | UI Picker Guide",
-passion: "Frontend development & Open Source"
+passion: "Fullstack development & Open Source"
 };
 ```
 
