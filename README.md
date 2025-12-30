@@ -13,13 +13,15 @@
 </p>
 
 ### 🧠 About Me
+```
 const varun = {
-role: "Software Engineer @ MERKLE",
+role: "Software Engineer @ TECHM",
 currently: "Building innovative web solutions",
 funFact: "Color picker enthusiast 🎨",
 projects: "varunjoshi.co.in | UI Picker Guide",
 passion: "Frontend development & Open Source"
 };
+```
 
 
 ### 🚀 Current Focus
